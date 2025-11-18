@@ -115,7 +115,6 @@ Complete working prototype integrating AI tracking with precision laser disrupti
 ##  Awards & Recognition
 
 -  **Jerónimo Martins Academic Prize** - Communication capacity and impact (2025)
--  **GUINNESS WORLD RECORDS** - World's Largest Programming Class (1668 students, Oct 2024)
 
 ---
 
@@ -128,11 +127,5 @@ I'm always open to interesting conversations and collaboration opportunities!
 -  Location: Loures, Lisboa, Portugal
 
 ---
-
-<div align="center">
-
-###  *"Excellent communicator with strong teamwork and technical presentation skills"*
-
-![Visitor Count](https://profile-counter.glitch.me/luispma04/count.svg)
 
 </div>
