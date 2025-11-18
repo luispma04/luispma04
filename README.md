@@ -87,16 +87,6 @@ Complete working prototype integrating AI tracking with precision laser disrupti
 
 ---
 
-##  GitHub Stats
-
-<div align="center">
-  
-![Luís's GitHub stats](https://github-readme-stats.vercel.app/api?username=luispma04&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luispma04&layout=compact&theme=radical)
-
-</div>
-
 ---
 
 ##  Education
