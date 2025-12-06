@@ -113,9 +113,6 @@ Complete working prototype integrating AI tracking with precision laser disrupti
 I'm always open to interesting conversations and collaboration opportunities!
 
 -  Email: luispma04@gmail.com
--  Phone: +351 927 708 619
--  Location: Loures, Lisboa, Portugal
-
 ---
 
 </div>
